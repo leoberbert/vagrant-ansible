@@ -26,7 +26,7 @@ Vagrant Ansible creates a Vagrant installation for CakePHP using Ansible with th
 1. Run the commands below:
 
 	```
-	git clone https://github.com/FriendsOfCake/vagrant-ansible.git --recurse-submodules
+	git clone https://github.com/leoberbert/vagrant-ansible.git --recurse-submodules
 	cd vagrant-ansible
 	vagrant up
 	```
